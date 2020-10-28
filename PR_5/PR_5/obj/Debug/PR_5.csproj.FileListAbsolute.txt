@@ -1,0 +1,14 @@
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\bin\Debug\PR_5.exe.config
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\bin\Debug\PR_5.exe
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\bin\Debug\PR_5.pdb
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\obj\Debug\PR_5.csprojAssemblyReference.cache
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\obj\Debug\PR_5.Form1.resources
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\obj\Debug\PR_5.Properties.Resources.resources
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\obj\Debug\PR_5.csproj.GenerateResource.cache
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\obj\Debug\PR_5.csproj.CoreCompileInputs.cache
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\obj\Debug\PR_5.exe
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\obj\Debug\PR_5.pdb
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\obj\Debug\PR_5.Form2.resources
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\obj\Debug\PR_5.Form3.resources
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\obj\Debug\PR_5.Form4.resources
+C:\Users\Spark\Desktop\Ucheba Tustugashev Y.V. 2020\Грисман С.С\ПР\PR_5\PR_5\obj\Debug\PR_5.Form5.resources
