@@ -1,0 +1,11 @@
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_9\PR_9\bin\Debug\PR_9.exe.config
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_9\PR_9\bin\Debug\PR_9.exe
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_9\PR_9\bin\Debug\PR_9.pdb
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_9\PR_9\obj\Debug\PR_9.csprojAssemblyReference.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_9\PR_9\obj\Debug\PR_9.Main_F.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_9\PR_9\obj\Debug\PR_9.People_F.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_9\PR_9\obj\Debug\PR_9.Properties.Resources.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_9\PR_9\obj\Debug\PR_9.csproj.GenerateResource.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_9\PR_9\obj\Debug\PR_9.csproj.CoreCompileInputs.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_9\PR_9\obj\Debug\PR_9.exe
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_9\PR_9\obj\Debug\PR_9.pdb
