@@ -1,0 +1,55 @@
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_10.2\PR_10.2\bin\Debug\PR_10.2.exe.config
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_10.2\PR_10.2\bin\Debug\PR_10.2.exe
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_10.2\PR_10.2\bin\Debug\PR_10.2.pdb
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_10.2\PR_10.2\obj\Debug\PR_10.2.csprojAssemblyReference.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_10.2\PR_10.2\obj\Debug\PR_10._2.Form1.resources
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_10.2\PR_10.2\obj\Debug\PR_10._2.Form2.resources
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_10.2\PR_10.2\obj\Debug\PR_10._2.Properties.Resources.resources
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_10.2\PR_10.2\obj\Debug\PR_10.2.csproj.GenerateResource.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_10.2\PR_10.2\obj\Debug\PR_10.2.csproj.CoreCompileInputs.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_10.2\PR_10.2\obj\Debug\PR_10.2.exe
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_10.2\PR_10.2\obj\Debug\PR_10.2.pdb
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11\PR_10.2\bin\Debug\PR_10.2.exe.config
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11\PR_10.2\bin\Debug\PR_10.2.exe
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11\PR_10.2\bin\Debug\PR_10.2.pdb
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11\PR_10.2\obj\Debug\PR_10.2.csprojAssemblyReference.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11\PR_10.2\obj\Debug\PR_10._2.Form1.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11\PR_10.2\obj\Debug\PR_10._2.Form2.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11\PR_10.2\obj\Debug\PR_10._2.Properties.Resources.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11\PR_10.2\obj\Debug\PR_10.2.csproj.GenerateResource.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11\PR_10.2\obj\Debug\PR_10.2.csproj.CoreCompileInputs.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11\PR_10.2\obj\Debug\PR_10.2.exe
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11\PR_10.2\obj\Debug\PR_10.2.pdb
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия\PR_10.2\bin\Debug\PR_10.2.exe.config
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия\PR_10.2\bin\Debug\PR_10.2.exe
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия\PR_10.2\bin\Debug\PR_10.2.pdb
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия\PR_10.2\obj\Debug\PR_10.2.csprojAssemblyReference.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия\PR_10.2\obj\Debug\PR_10._2.Form1.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия\PR_10.2\obj\Debug\PR_10._2.Form2.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия\PR_10.2\obj\Debug\PR_10._2.Properties.Resources.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия\PR_10.2\obj\Debug\PR_10.2.csproj.GenerateResource.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия\PR_10.2\obj\Debug\PR_10.2.csproj.CoreCompileInputs.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия\PR_10.2\obj\Debug\PR_10.2.exe
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия\PR_10.2\obj\Debug\PR_10.2.pdb
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия — копия\PR_10.2\bin\Debug\PR_10.2.exe.config
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия — копия\PR_10.2\bin\Debug\PR_10.2.exe
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия — копия\PR_10.2\bin\Debug\PR_10.2.pdb
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия — копия\PR_10.2\obj\Debug\PR_10.2.csprojAssemblyReference.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия — копия\PR_10.2\obj\Debug\PR_10._2.Form1.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия — копия\PR_10.2\obj\Debug\PR_10._2.Form2.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия — копия\PR_10.2\obj\Debug\PR_10._2.Properties.Resources.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия — копия\PR_10.2\obj\Debug\PR_10.2.csproj.GenerateResource.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия — копия\PR_10.2\obj\Debug\PR_10.2.csproj.CoreCompileInputs.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия — копия\PR_10.2\obj\Debug\PR_10.2.exe
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_11 — копия — копия\PR_10.2\obj\Debug\PR_10.2.pdb
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_12\PR_10.2\bin\Debug\PR_10.2.exe.config
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_12\PR_10.2\bin\Debug\PR_10.2.exe
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_12\PR_10.2\bin\Debug\PR_10.2.pdb
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_12\PR_10.2\obj\Debug\PR_10.2.csprojAssemblyReference.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_12\PR_10.2\obj\Debug\PR_10._2.Form1.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_12\PR_10.2\obj\Debug\PR_10._2.Form2.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_12\PR_10.2\obj\Debug\PR_10._2.Properties.Resources.resources
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_12\PR_10.2\obj\Debug\PR_10.2.csproj.GenerateResource.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_12\PR_10.2\obj\Debug\PR_10.2.csproj.CoreCompileInputs.cache
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_12\PR_10.2\obj\Debug\PR_10.2.exe
+C:\Users\Spark\Desktop\Ucheba PC\Грисман С.С\PC\PR_12\PR_10.2\obj\Debug\PR_10.2.pdb
